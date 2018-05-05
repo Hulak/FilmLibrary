@@ -8,7 +8,7 @@
 
 import XCTest
 
-class iMusicUITests: XCTestCase {
+class filmLibraryUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
