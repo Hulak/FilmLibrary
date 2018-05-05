@@ -1,6 +1,6 @@
 //
-//  iMusicUITests.swift
-//  iMusicUITests
+//  filmLibraryUITests.swift
+//  ifilmLibraryUITests
 //
 //  Created by Alyona Hulak on 4/20/18.
 //  Copyright © 2018 Alyona Hulak. All rights reserved.
