@@ -1,0 +1,21 @@
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+C:/Users/Alexandr/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+/Users/alyonahulak/Downloads/Telegram Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+/Users/alyonahulak/Projects/lab1/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
